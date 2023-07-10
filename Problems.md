@@ -1,7 +1,7 @@
 # Algorithms && Medium
 
-- [ ] 2. Add Two Numbers
-- [ ] 3. Longest Substring Without Repeating Characters
+- [x] 2. Add Two Numbers
+- [x] 3. Longest Substring Without Repeating Characters
 - [ ] 5. Longest Palindromic Substring
 - [ ] 6. Zigzag Conversion
 - [ ] 7. Reverse Integer
