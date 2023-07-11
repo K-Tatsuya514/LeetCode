@@ -5,12 +5,12 @@
 - [ ] 5. Longest Palindromic Substring
 - [ ] 6. Zigzag Conversion
 - [ ] 7. Reverse Integer
-- [ ] 8. String to Integer (atoi)
+- [x] 8. String to Integer (atoi)
 - [ ] 11. Container With Most Water
 - [ ] 12. Integer to Roman
 - [ ] 15. 3Sum
 - [ ] 16. 3Sum Closest
-- [ ] 17. Letter Combinations of a Phone Number
+- [x] 17. Letter Combinations of a Phone Number
 - [ ] 18. 4Sum
 - [ ] 19. Remove Nth Node From End of List
 - [ ] 22. Generate Parentheses
