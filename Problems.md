@@ -25,8 +25,8 @@
 - [ ] 40. Combination Sum II
 - [ ] 43. Multiply Strings
 - [ ] 45. Jump Game II
-- [ ] 46. Permutations
-- [ ] 47. Permutations II
+- [x] 46. Permutations
+- [x] 47. Permutations II
 - [ ] 48. Rotate Image
 - [ ] 49. Group Anagrams
 - [ ] 50. Pow(x, n)
